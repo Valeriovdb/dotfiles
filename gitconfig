@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = valeriovandenbroek@gmail.com
+	name = Valerio van den Broek
